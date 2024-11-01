@@ -1,6 +1,8 @@
 
-# title: Richard Smith Webpage
-# description: Webpage of Dr Richard Smith.
+layout: home
+title: Richard Smith Webpage
+description: Webpage of Dr Richard Smith.
+
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
